@@ -1,0 +1,26 @@
+
+/* #projects{
+    background-color:whitesmoke
+} */
+p{
+    color:grey
+}
+h2{
+    font-size: 1.5em
+}
+h1{
+    font-size: 2.0em
+}
+#skills, #leadership{
+    background-color:rgb(156, 188, 220);
+    color: white;
+}
+
+.siliconvalley{
+    color: rgb(156, 188, 220)
+}
+.testimonials img{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 15px
+}
